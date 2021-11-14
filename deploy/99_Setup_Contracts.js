@@ -36,4 +36,4 @@ module.exports = async ({
   log("----------------------------------------------------")
 
 }
-module.exports.tags = ['all']
+module.exports.tags = ['ReservationVariant', 'OffsetVariant']

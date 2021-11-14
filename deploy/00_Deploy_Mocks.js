@@ -22,4 +22,4 @@ module.exports = async ({
         log("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
     }
 }
-module.exports.tags = ['all', 'mocks', 'main']
+module.exports.tags = ['ReservationVariant', 'OffsetVariant']
